@@ -1,0 +1,23 @@
+{
+  "generator-fountain-vue": {
+    "version": "1.0.0-rc1",
+    "props": {
+      "resolved": "C:\\Users\\nowgoant\\AppData\\Roaming\\npm\\node_modules\\generator-fountain-vue\\generators\\app\\index.js",
+      "namespace": "fountain-vue:app",
+      "argv": {
+        "remain": [],
+        "cooked": [],
+        "original": []
+      },
+      "framework": "vue",
+      "modules": "webpack",
+      "css": "scss",
+      "js": "babel",
+      "ci": [
+        "travis"
+      ],
+      "sample": "techs",
+      "router": "router"
+    }
+  }
+}
